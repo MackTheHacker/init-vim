@@ -1,10 +1,10 @@
-My init.vim configuration file. 
+My init.vim configuration file for neovim. 
 
 NOTE:
 
 Utilizes neovim (file must be placed in ~/.config/nvim (create it if it does not exist) 
 
-Utilizes vim-plug as the plugin manager. You must install it in order to get the plugins to work. 
+Utilizes vim-plug by junegunn as the plugin manager. You must install it in order to get the plugins to work. 
 
 The "youcompleteme" plugin needs to be compiled before it will work. You will
 need to navigate to its install direction in order to do so (for me, it is
